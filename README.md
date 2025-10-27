@@ -32,9 +32,9 @@ Na plataforma HeyGen, realizei uma gravação de aproximadamente um minuto, util
 Apresente os resultados do seu projeto
 ### Exemplos e Insigths
 
-[![Assista à demonstração do projeto](./assets/thumbnail.png)](https://drive.google.com/file/d/1KRCrjRqUC6RLvTheGH3P6RIFlYdM8OGs/view?usp=drive_link)
+[![Assista à demonstração do projeto](https://drive.google.com/file/d/1KRCrjRqUC6RLvTheGH3P6RIFlYdM8OGs/view?usp=drive_link)
 
-[Assista ao vídeo aqui](https://drive.google.com/file/d/1KRCrjRqUC6RLvTheGH3P6RIFlYdM8OGs/view?usp=drive_link)
+
 
 
 ## 📒 Descrição
@@ -50,7 +50,7 @@ Após concluir a edição, exportei o material para a plataforma PixVerse.ai, on
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 ### Exemplos e Insigths
-[![Assista à demonstração do projeto](./assets/thumbnail.png)](https://drive.google.com/file/d/1A2RJPBTTMcnACR5IhvXEDXAwCq7KFnQL/view?usp=drive_link)
+[![Assista à demonstração do projeto](https://drive.google.com/file/d/1A2RJPBTTMcnACR5IhvXEDXAwCq7KFnQL/view?usp=drive_link)
 
 
 ## Links Interessantes
