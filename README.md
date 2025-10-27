@@ -53,8 +53,5 @@ Apresente os resultados do seu projeto
 [![Assista à demonstração do projeto](https://drive.google.com/file/d/1A2RJPBTTMcnACR5IhvXEDXAwCq7KFnQL/view?usp=drive_link)
 
 
-## Links Interessantes
 
 
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
