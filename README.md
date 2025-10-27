@@ -34,6 +34,8 @@ Apresente os resultados do seu projeto
 
 [![Assista à demonstração do projeto](https://drive.google.com/file/d/1KRCrjRqUC6RLvTheGH3P6RIFlYdM8OGs/view?usp=drive_link)
 
+(https://github.com/u<img width="355" height="481" alt="imagen1" src="https://github.com/user-attachments/assets/ce012da5-1ecc-4082-a452-ba0d23c0fda6" />
+ser-attachments/assets/d3c5e8f2-ab8b-4e5e-8e23-cccb9be71b6c)
 
 
 
@@ -50,7 +52,8 @@ Após concluir a edição, exportei o material para a plataforma PixVerse.ai, on
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 ### Exemplos e Insigths
-[![Assista à demonstração do projeto](https://drive.google.com/file/d/1A2RJPBTTMcnACR5IhvXEDXAwCq7KFnQL/view?usp=drive_link)
+[![Assista à demonstração do projeto]](https://drive.google.com/file/d/1SkEno2UVmH9Cjcb4I5WFD-FN_iUi1Xce/view?usp=drive_link))
+
 
 
 
